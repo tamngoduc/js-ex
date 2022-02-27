@@ -59,6 +59,7 @@ VND = USD * rate;
 console.log("So tien sau khi quy doi ra VND la: " + VND);
 
 /*
+BÀI 4:
 * Đầu vào:
 - Chiều dài và chiều rộng của HCN
 * Xử lí:
@@ -78,6 +79,7 @@ console.log("Dien tich HCN la: " + S);
 console.log("Chu vi HCN la: " + C);
 
 /*
+BÀI 5:
 * Đầu vào:
 - Số có 2 chữ số
 * Xử lí:
